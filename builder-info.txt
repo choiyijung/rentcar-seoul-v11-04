@@ -1,0 +1,7 @@
+SITE_ID=site-04
+DESIGN_ID=design-04
+DESIGN_NAME=차량카탈로그형
+SITE_NAME=렌트온
+DOMAIN=
+PHONE=
+REGIONS=seoul
